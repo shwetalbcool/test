@@ -1,0 +1,10 @@
+2018-12-22 13:57:00 DEBUG This is debug message
+2018-12-22 13:57:00 INFO  This is info message
+2018-12-22 13:57:00 WARN  This is warn message
+2018-12-22 13:57:00 FATAL This is fatal message
+2018-12-22 13:57:00 ERROR This is error message
+2018-12-22 13:59:21 DEBUG This is debug message
+2018-12-22 13:59:21 INFO  This is info message
+2018-12-22 13:59:21 WARN  This is warn message
+2018-12-22 13:59:21 FATAL This is fatal message
+2018-12-22 13:59:21 ERROR This is error message
